@@ -576,9 +576,7 @@
         "dependencies": [
           {
             "name": "Collider",
-            "scenes": [
-              "Assets/Samples/Universal AR/3.2.6/Examples/MultiImageTracker.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -591,14 +589,6 @@
           {
             "name": "Rigidbody",
             "scenes": [],
-            "dependencyType": 0,
-            "icon": null
-          },
-          {
-            "name": "SphereCollider",
-            "scenes": [
-              "Assets/Samples/Universal AR/3.2.6/Examples/MultiImageTracker.unity"
-            ],
             "dependencyType": 0,
             "icon": null
           }

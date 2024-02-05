@@ -237,15 +237,6 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "Collider",
-            "fullManagedTypeName": "UnityEngine.Collider",
-            "moduleName": "Physics",
-            "usedInScenes": [
-                "Assets/Samples/Universal AR/3.2.6/Examples/MultiImageTracker.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Component",
             "fullManagedTypeName": "UnityEngine.Component",
             "moduleName": "Core",
@@ -409,15 +400,6 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "SphereCollider",
-            "fullManagedTypeName": "UnityEngine.SphereCollider",
-            "moduleName": "Physics",
-            "usedInScenes": [
-                "Assets/Samples/Universal AR/3.2.6/Examples/MultiImageTracker.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Sprite",
             "fullManagedTypeName": "UnityEngine.Sprite",
             "moduleName": "Core",
@@ -493,13 +475,6 @@
             "managedAssemblyName": "UnityEngine.UI.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.UI.Image",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Zappar.UAR.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "Zappar.Examples.RandomColor",
             "moduleName": "",
             "usedInScenes": []
         },

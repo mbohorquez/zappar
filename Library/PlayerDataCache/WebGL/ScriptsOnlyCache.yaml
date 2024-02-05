@@ -25,7 +25,6 @@ ScriptsOnlyBuild:
     - Zappar.ZapparUARSettings
     Zappar.UAR.dll:
     - ImageController
-    - Zappar.Examples.RandomColor
     - Zappar.ZapparCamera
     - Zappar.ZapparCameraBackground
     - Zappar.ZapparImageTrackingTarget
@@ -77,18 +76,24 @@ ScriptsOnlyBuild:
   - assembly: Zappar.UAR
     fullTypeName: ImageController
     methodName: StartFadeIn
+  - assembly: Zappar.UAR
+    fullTypeName: ImageController
+    methodName: StartFadeIn
+  - assembly: Zappar.UAR
+    fullTypeName: ImageController
+    methodName: StartFadeIn
+  - assembly: Zappar.UAR
+    fullTypeName: ImageController
+    methodName: StartFadeIn
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
-  - assembly: UnityEngine.CoreModule
-    fullTypeName: UnityEngine.GameObject
-    methodName: SetActive
-  - assembly: UnityEngine.CoreModule
-    fullTypeName: UnityEngine.GameObject
-    methodName: SetActive
+  - assembly: Zappar.UAR
+    fullTypeName: ImageController
+    methodName: StartFadeIn
   - assembly: Zappar.UAR
     fullTypeName: ImageController
     methodName: StartFadeIn
@@ -145,8 +150,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 20010}
     - Class: 114
-      Script: {instanceID: 20606}
-    - Class: 114
       Script: {instanceID: 20732}
     - Class: 114
       Script: {instanceID: 20874}
@@ -159,8 +162,6 @@ ScriptsOnlyBuild:
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
-      Script: {instanceID: 0}
-    - Class: 135
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -1270,4 +1271,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Samples/Universal AR/3.2.6/Examples/MultiImageTracker.unity
-  playerPath: C:/Users/migue/unity/Zappar/prueba37
+  playerPath: C:/Users/migue/unity/Zappar/prueba 1
